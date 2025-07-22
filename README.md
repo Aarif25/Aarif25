@@ -1,7 +1,5 @@
-
-
- 💫 About Me:
-👋 Hi there, I'm [Aatif Mansoori]!<br><br>-  I’m currently working on building full-stack web apps using the MERN stack.<br>-  I’m looking to collaborate on open source projects related to web development, productivity tools, or AI-powered applications.<br>-  I’m looking for help with optimizing React performance and structuring large-scale applications.<br>-  I’m currently learning Data Structures & Algorithms for GATE 2026 and mastering advanced concepts in React and MongoDB.<br>
+💫 About Me:
+👋 Hi there, I'm [Aarif Mansoori]!<br><br>-  I’m currently working on building full-stack web apps using the MERN stack.<br>-  I’m looking to collaborate on open source projects related to web development, productivity tools, or AI-powered applications.<br>-  I’m looking for help with optimizing React performance and structuring large-scale applications.<br>-  I’m currently learning Data Structures & Algorithms for GATE 2026 and mastering advanced concepts in React and MongoDB.<br>
 
 
 ## 🌐 Socials:
